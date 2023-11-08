@@ -1,0 +1,38 @@
+*{
+    
+    padding: 0px;
+    margin: 0px;
+}
+#amazon{
+    height: 60px;
+    background-color: #000000;
+   
+}
+#logo{
+    color: #f08804;
+    font-size: 26px;
+}
+button{
+    background-color: #f08804;
+    color: #fff;
+}
+a{
+    margin-right: 200px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.content-box{
+    height: 100px;
+    width: 100px;
+    border: 2px solid rgb(216, 111, 146);
+    display: inline-block;
+}
+#content-wb{
+   height: 440px;
+}
+footer{
+    background-color: #040404;
+    color: white;
+    text-align: center;
+}
